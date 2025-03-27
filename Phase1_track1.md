@@ -1,1 +1,0 @@
-The training data for the challenge will be released on April 5th, 2025. Please stay tuned for further updates.
